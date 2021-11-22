@@ -7,4 +7,4 @@ Horiseon is a webiste for brand awarness and a marketing agency to take your onl
 + HTML
 + CSS
 # Webiste
-Website: https://krislopeztx.github.io/refactor-horiseon/
+https://krislopeztx.github.io/refactor-horiseon/
